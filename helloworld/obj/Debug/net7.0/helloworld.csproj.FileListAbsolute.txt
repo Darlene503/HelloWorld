@@ -1,0 +1,15 @@
+/Users/Lene/Desktop/repos2/helloworld/helloworld/bin/Debug/net7.0/helloworld
+/Users/Lene/Desktop/repos2/helloworld/helloworld/bin/Debug/net7.0/helloworld.deps.json
+/Users/Lene/Desktop/repos2/helloworld/helloworld/bin/Debug/net7.0/helloworld.runtimeconfig.json
+/Users/Lene/Desktop/repos2/helloworld/helloworld/bin/Debug/net7.0/helloworld.dll
+/Users/Lene/Desktop/repos2/helloworld/helloworld/bin/Debug/net7.0/helloworld.pdb
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/helloworld.csproj.AssemblyReference.cache
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfoInputs.cache
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfo.cs
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/helloworld.dll
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/refint/helloworld.dll
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/helloworld.pdb
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/helloworld.genruntimeconfig.cache
+/Users/Lene/Desktop/repos2/helloworld/helloworld/obj/Debug/net7.0/ref/helloworld.dll
